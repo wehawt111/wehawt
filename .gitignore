@@ -1,0 +1,10 @@
+# Local match data and generated files
+matchroom.sqlite3
+sample_round_analysis.json
+__pycache__/
+*.py[cod]
+*.dem
+*.rar
+*.zip
+.venv/
+venv/
